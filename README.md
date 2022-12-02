@@ -5,7 +5,7 @@ Hi, I'm Andreas Paraskeva!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Compute+Science+Graduate;MSc+Artificial+Intelligence+Student"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Compute+Science+Graduate;MSc+Artificial+Intelligence+Student"></a> -->
 </p>
 <br/>
 <h3 align="center">An MSc Artificial Intelligence student, at Leiden University.</h3>
@@ -31,7 +31,7 @@ Hi, I'm Andreas Paraskeva!
 <!--   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> --><br>
 
 <a href = 'https://www.linkedin.com/in/andreasparaskeva'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/andreasparaskeva'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<!-- <a href = 'https://www.github.com/andreasparaskeva'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
 
 
   
